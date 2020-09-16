@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "name": "Caixa alta",
+  "description": "Extensão caixa alta",
+  "author": "Bruno Henrique Saibert",
+  "browser_action": {
+    "default_title": "Caixa alta",
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  }
+}
